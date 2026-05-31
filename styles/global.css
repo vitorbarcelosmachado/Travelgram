@@ -18,6 +18,7 @@
     --text: 16px/150% var(--font-family);
     --text-md: 14px/170% var(--font-family);
     --text-sm: 12px/170% var(--font-family);
+    --text-footer: 14px/150% var(--font-family);
 }
 
 body {
